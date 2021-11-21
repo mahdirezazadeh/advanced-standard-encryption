@@ -1,0 +1,8 @@
+simple maven project
+
+unit tests: ir/mahdi/AdvancedEncryptionStandardTest.java
+
+dependencies:
+	- java 17
+	- lombok
+	- junit jupiter params (version:5.7.0)
